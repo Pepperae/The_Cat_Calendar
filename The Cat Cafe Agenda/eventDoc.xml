@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EventModel>
+	<Event>
+	<CustomerName>Atari</CustomerName>
+	<EventName>Konami</EventName>
+	<DateStart>2022-02-07T06:30:11.0000000+01:00</DateStart>
+	<DateEnd>2022-02-07T07:30:11.0000000+01:00</DateEnd>
+</Event>
+</EventModel>

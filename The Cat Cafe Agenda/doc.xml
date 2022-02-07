@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CustomerModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <FirstName>Atari</FirstName>
+    <LastName>Konami</LastName>
+    <DateOfBirth>05/02/2022</DateOfBirth>
+  </Customer>
+  <Customer>
+    <FirstName>Atari</FirstName>
+    <LastName>Konami</LastName>
+    <DateOfBirth>05/02/2022</DateOfBirth>
+  </Customer>
+  <Customer>
+    <FirstName>Meow</FirstName>
+    <LastName>Nya</LastName>
+    <DateOfBirth>05/02/2022</DateOfBirth>
+  </Customer>
+</CustomerModel>
